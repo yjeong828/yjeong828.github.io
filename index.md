@@ -9,3 +9,7 @@
 # Earth, Climate and Ethics 
 
 [Link to another page](./ECE.html).
+
+# Physical Principle of Earth System Observation
+
+[Link to another page](./PPESO.html).
